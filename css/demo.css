@@ -8,7 +8,6 @@ html {
 	background: #28282b;
 }
 
-/* Color schemes */
 .demo-magneto {
 	--color-text: #41353d;
 	--color-background: #fff037;
@@ -92,7 +91,7 @@ body {
 	opacity: 1;
 }
 
-/* Page Loader */
+
 .js .loading::before {
 	content: '';
 	position: fixed;
@@ -154,7 +153,7 @@ a:focus {
 	pointer-events: none;
 }
 
-/* Icons */
+
 .icon {
 	display: block;
 	width: 1.5em;
@@ -206,7 +205,7 @@ main {
 	pointer-events: auto;
 }
 
-/* Header */
+
 .codrops-header {
 	position: relative;
 	display: flex;
@@ -288,7 +287,7 @@ a.demo--current {
 	pointer-events: none;
 }
 
-/* Top Navigation Style */
+
 .codrops-links {
 	position: relative;
 	display: flex;
@@ -304,7 +303,7 @@ a.demo--current {
 	padding: 0.25em;
 }
 
-/* Common styles for the words */
+
 .word {
 	display: flex;
 	flex-direction: row;
